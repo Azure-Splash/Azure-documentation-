@@ -21,6 +21,11 @@ Documentation
 
 ---
 
+- GitHub: [Azure Splash](https://github.com/Azure-Splash/Azure-documentation-)
+- Trello: [Azure Splash Trello Board](https://trello.com/b/wGXnXTBK/azure-splash)
+
+---
+
  ## Purpose
 
 We were recently approached by a client; an owner of a freshly renovated aquatic centre, Azure Splash. Due to the high volume of patrons, the centre has had to implement mandatory reservations for each pool lane. There are currently two pools with a total of 6 lanes per pool. At the moment, the only way to reserve a lane is via phone or in-person as the facility does not have a website.This has led to multiple customers walking-in and unable to go for a swim, leaving them unsatisfied and resulting in customers visiting a competitor or worse yet, not continuing their patronage. Further, it was keeping staff tied to the phones in order to keep up with reservations, and preventing them from fulfilling their other duties.
